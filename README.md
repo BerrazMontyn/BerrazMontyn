@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BerrazMontyn
 - 👀 I’m interested in ...
-- 🌱 ¡I am currently learning Ract js!💪🏽
-- 💞️ I am looking for unpaid internships to gain experience.
+- 🌱 ¡I'm a Full Stack Web Developer!💪🏽
+- 💞️ I am looking for a job challenge.
 - 📫 Mi LinkedIn is :https://www.linkedin.com/in/juan-manuel-berraz-montyn-b25962194/
 
 <!---
