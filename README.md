@@ -1,5 +1,5 @@
 - 👨🏻‍💻HI! I'm Juan Manuel I'm Full Stack Web Developer.
-- ✅ I'm from Argentina and I'm 33 years old. I'm very organised and independent. 
+- 🚀 I'm from Argentina and I'm 33 years old. I'm very organised and independent. 
    I'm able to meet strict deadlines and good at working under pressure. 
    I consider myself to be hard-working, methodical and energetic in my work.
 - 🔎 I am looking for a job challenge where I can develop my knowledge and learn more about my specialty.
