@@ -6,6 +6,7 @@
 - 🖥️ My knowledge: HTML, Css, JavaScript, React, Redux, Node.js, SQL, Sequelize, Swift, Scrum master.
 - 📫 Mi LinkedIn is :https://www.linkedin.com/in/juan-manuel-berraz-montyn-b25962194/
 - ✉️ My email is: juanberrazmontyn@hotmail.com
+- 💼 My portfolio: https://port-folio-flax-psi.vercel.app/
 
 <!---
 Come and see my repository ⚜️⚜️
